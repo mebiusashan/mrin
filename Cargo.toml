@@ -3,6 +3,15 @@ name = "mrin"
 version = "0.1.0"
 authors = ["mebius <mebius@ashan.com>"]
 edition = "2018"
+description = "Mrin is a HTTP web framework written in Rust"
+documentation = "https://docs.rs/mrin"
+readme = "README.md"
+homepage = "https://crates.io/crates/mrin"
+repository = "https://github.com/mebiusashan/mrin"
+license = "Apache-2.0"
+license-file = "LICENSE"
+keywords = ["http", "web", "async", "framework"]
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
