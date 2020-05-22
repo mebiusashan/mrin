@@ -1,7 +1,7 @@
 [package]
 name = "mrin"
 version = "0.1.0"
-authors = ["mebius <mebius@ashan.com>"]
+authors = ["mebius <mebius@ashan.org>"]
 edition = "2018"
 description = "Mrin is a HTTP web framework written in Rust"
 documentation = "https://docs.rs/mrin"
